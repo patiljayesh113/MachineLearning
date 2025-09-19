@@ -1,0 +1,602 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/YCFCdCYSyYUJcvd95e5b.jpg",
+      "genre_ids": [
+        14,
+        99,
+        36
+      ],
+      "id": 100000,
+      "original_language": "pt",
+      "original_title": "Crimson Signal",
+      "overview": "A team of unlikely allies bands together in Crimson Signal to solve a mystery no one else can.",
+      "popularity": 212.036,
+      "poster_path": "/h0X9zuINamrWtFuaQvSMbk.jpg",
+      "release_date": "2004-05-19",
+      "title": "Crimson Signal",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 263322
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/QeRT0dfACLtTThRRk7GW.jpg",
+      "genre_ids": [
+        53,
+        16
+      ],
+      "id": 100001,
+      "original_language": "de",
+      "original_title": "Fallen Echo",
+      "overview": "A team of unlikely allies bands together in Fallen Echo to solve a mystery no one else can.",
+      "popularity": 231.174,
+      "poster_path": "/OHyGEIMuNgGeZi2mEgJZOG.jpg",
+      "release_date": "2021-12-10",
+      "title": "Fallen Echo",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 49100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/haKH6sU4vzOFjnZmlX00.jpg",
+      "genre_ids": [
+        10752,
+        10749,
+        12
+      ],
+      "id": 100002,
+      "original_language": "ko",
+      "original_title": "Crimson Memory",
+      "overview": "Set against a changing world, Crimson Memory explores the courage it takes to start over.",
+      "popularity": 279.732,
+      "poster_path": "/C5bpGuyjvvMo8FYM23YbIr.jpg",
+      "release_date": "2008-01-13",
+      "title": "Crimson Memory",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 279145
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3bYsrERg1i8BZqzOlnZT.jpg",
+      "genre_ids": [
+        12,
+        9648
+      ],
+      "id": 100003,
+      "original_language": "it",
+      "original_title": "Midnight Promise",
+      "overview": "Midnight Promise is a character-driven drama about loyalty, betrayal, and the cost of ambition.",
+      "popularity": 73.268,
+      "poster_path": "/ECLjPXRLt9h9RDZERx8uZn.jpg",
+      "release_date": "2024-04-26",
+      "title": "Midnight Promise",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 276892
+    },
+    {
+      "adult": true,
+      "backdrop_path": "/pxYyhIKHQI7CRBsQYXzE.jpg",
+      "genre_ids": [
+        10751,
+        36
+      ],
+      "id": 100004,
+      "original_language": "es",
+      "original_title": "Secret Memory",
+      "overview": "Secret Memory follows a reluctant hero who must confront the past to save an uncertain future.",
+      "popularity": 110.115,
+      "poster_path": "/C5bpGuyjvvMo8FYM23YbIr.jpg",
+      "release_date": "2011-02-01",
+      "title": "Secret Memory",
+      "video": false,
+      "vote_average": 1.9,
+      "vote_count": 259798
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AwFv0Yg7NZRBT7qYHDBT.jpg",
+      "genre_ids": [
+        36,
+        10752,
+        18
+      ],
+      "id": 100005,
+      "original_language": "de",
+      "original_title": "Eternal Road",
+      "overview": "Eternal Road is a character-driven drama about loyalty, betrayal, and the cost of ambition.",
+      "popularity": 144.937,
+      "poster_path": "/nN4SgeJpB3jN5PqR4JF6EB.jpg",
+      "release_date": "1984-02-12",
+      "title": "Eternal Road",
+      "video": true,
+      "vote_average": 6.7,
+      "vote_count": 206381
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wUtWuqs0D1K6e3F1xsd0.jpg",
+      "genre_ids": [
+        10402
+      ],
+      "id": 100006,
+      "original_language": "pt",
+      "original_title": "Golden Labyrinth",
+      "overview": "A team of unlikely allies bands together in Golden Labyrinth to solve a mystery no one else can.",
+      "popularity": 17.249,
+      "poster_path": "/Do1r2zlRWJhaOQtwjOp1Aw.jpg",
+      "release_date": "2020-03-22",
+      "title": "Golden Labyrinth",
+      "video": false,
+      "vote_average": 3.9,
+      "vote_count": 56194
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ZDYUvh7i71S87XwXaHCP.jpg",
+      "genre_ids": [
+        99,
+        12,
+        18,
+        9648
+      ],
+      "id": 100007,
+      "original_language": "zh",
+      "original_title": "Silent Legacy",
+      "overview": "In Silent Legacy, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 25.423,
+      "poster_path": "/FTgOui0BzVpYvFfxUwPjUA.jpg",
+      "release_date": "1978-10-16",
+      "title": "Silent Legacy",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 3633
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/UnAvwSWJfdjMPqPEBqUh.jpg",
+      "genre_ids": [
+        878,
+        99,
+        53,
+        10752
+      ],
+      "id": 100008,
+      "original_language": "ko",
+      "original_title": "Crimson Quest",
+      "overview": "In Crimson Quest, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 160.928,
+      "poster_path": "/0WWHa7YDJ5wQyN7fH7eCVO.jpg",
+      "release_date": "1974-10-02",
+      "title": "Crimson Quest",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 230359
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gatwqilBIzbvfLuxsyf3.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 100009,
+      "original_language": "fr",
+      "original_title": "Crimson Road",
+      "overview": "Crimson Road follows a reluctant hero who must confront the past to save an uncertain future.",
+      "popularity": 56.87,
+      "poster_path": "/nRx0rliJogqoAxj7jXkE90.jpg",
+      "release_date": "1976-12-29",
+      "title": "Crimson Road",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 16580
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rHkCUVIhhWZwZcSH9gZU.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        10749
+      ],
+      "id": 100010,
+      "original_language": "it",
+      "original_title": "Crimson Signal",
+      "overview": "A team of unlikely allies bands together in Crimson Signal to solve a mystery no one else can.",
+      "popularity": 239.946,
+      "poster_path": "/M1ksxrvKDPgdUaK9gGaL9V.jpg",
+      "release_date": "1976-06-07",
+      "title": "Crimson Signal",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 209660
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gcLRdTyon1dFrYTtLPts.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 100011,
+      "original_language": "en",
+      "original_title": "Broken Reckoning",
+      "overview": "In Broken Reckoning, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 46.663,
+      "poster_path": "/0OisS7ZPTXX0MrUPimLgz9.jpg",
+      "release_date": "1966-03-24",
+      "title": "Broken Reckoning",
+      "video": false,
+      "vote_average": 3.4,
+      "vote_count": 179390
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gatwqilBIzbvfLuxsyf3.jpg",
+      "genre_ids": [
+        53,
+        10770,
+        10749,
+        16
+      ],
+      "id": 100012,
+      "original_language": "ko",
+      "original_title": "Eternal Memory",
+      "overview": "In Eternal Memory, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 185.284,
+      "poster_path": "/hPonUOfASj53VnpD3hiHSf.jpg",
+      "release_date": "2010-11-13",
+      "title": "Eternal Memory",
+      "video": false,
+      "vote_average": 3.8,
+      "vote_count": 60313
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jdg3vSFkpBBGjxrzuLWO.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18,
+        28
+      ],
+      "id": 100013,
+      "original_language": "fr",
+      "original_title": "Blazing Echo",
+      "overview": "Set against a changing world, Blazing Echo explores the courage it takes to start over.",
+      "popularity": 188.672,
+      "poster_path": "/bVaqzU9Ue591EuCpzcTxtL.jpg",
+      "release_date": "1985-07-31",
+      "title": "Blazing Echo",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 143592
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/IqK3yn9FfcgMXAdx9G81.jpg",
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 100014,
+      "original_language": "ko",
+      "original_title": "Golden Labyrinth",
+      "overview": "A team of unlikely allies bands together in Golden Labyrinth to solve a mystery no one else can.",
+      "popularity": 157.491,
+      "poster_path": "/cYNPROqCQpL70aVN4yK3Gl.jpg",
+      "release_date": "2021-10-26",
+      "title": "Golden Labyrinth",
+      "video": false,
+      "vote_average": 3.3,
+      "vote_count": 223396
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wUtWuqs0D1K6e3F1xsd0.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 100015,
+      "original_language": "hi",
+      "original_title": "Forgotten Empire",
+      "overview": "Forgotten Empire is a character-driven drama about loyalty, betrayal, and the cost of ambition.",
+      "popularity": 109.073,
+      "poster_path": "/xIcZZsICbaq7ZDO3zEQphr.jpg",
+      "release_date": "2002-07-05",
+      "title": "Forgotten Empire",
+      "video": false,
+      "vote_average": 8.8,
+      "vote_count": 95300
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/haKH6sU4vzOFjnZmlX00.jpg",
+      "genre_ids": [
+        35,
+        53,
+        10749
+      ],
+      "id": 100016,
+      "original_language": "de",
+      "original_title": "Silent Empire",
+      "overview": "Set against a changing world, Silent Empire explores the courage it takes to start over.",
+      "popularity": 30.229,
+      "poster_path": "/uuP4XODM3HuWzUZsStHmQX.jpg",
+      "release_date": "1987-08-20",
+      "title": "Silent Empire",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 159580
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/GRfPpvPx0I9dNj001eEo.jpg",
+      "genre_ids": [
+        80,
+        99
+      ],
+      "id": 100017,
+      "original_language": "ja",
+      "original_title": "Hidden Promise",
+      "overview": "Set against a changing world, Hidden Promise explores the courage it takes to start over.",
+      "popularity": 158.659,
+      "poster_path": "/oJgJanlr3H8gnFRwKB7lvx.jpg",
+      "release_date": "1986-05-18",
+      "title": "Hidden Promise",
+      "video": false,
+      "vote_average": 3.2,
+      "vote_count": 201362
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pCPZygFP0xOLsgd9N1qS.jpg",
+      "genre_ids": [
+        14
+      ],
+      "id": 100018,
+      "original_language": "pt",
+      "original_title": "Hidden Labyrinth",
+      "overview": "In Hidden Labyrinth, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 57.878,
+      "poster_path": "/l1WrEi1L9rPzzjrqM4wQCa.jpg",
+      "release_date": "1973-11-07",
+      "title": "Hidden Labyrinth",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 179787
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nVTsCFyFP0YMkFBl6O7T.jpg",
+      "genre_ids": [
+        10752,
+        27
+      ],
+      "id": 100019,
+      "original_language": "en",
+      "original_title": "Fallen Reckoning",
+      "overview": "In Fallen Reckoning, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 57.512,
+      "poster_path": "/H73TO1RJXRIhIlMJdJlD3h.jpg",
+      "release_date": "1987-08-28",
+      "title": "Fallen Reckoning",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 293792
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pCPZygFP0xOLsgd9N1qS.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "id": 100020,
+      "original_language": "hi",
+      "original_title": "Electric Labyrinth",
+      "overview": "A team of unlikely allies bands together in Electric Labyrinth to solve a mystery no one else can.",
+      "popularity": 125.701,
+      "poster_path": "/0OisS7ZPTXX0MrUPimLgz9.jpg",
+      "release_date": "1966-12-18",
+      "title": "Electric Labyrinth",
+      "video": false,
+      "vote_average": 3.7,
+      "vote_count": 67608
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4HZKjht3X13npgW2zMj5.jpg",
+      "genre_ids": [
+        878,
+        10749
+      ],
+      "id": 100021,
+      "original_language": "it",
+      "original_title": "Fallen Empire",
+      "overview": "Set against a changing world, Fallen Empire explores the courage it takes to start over.",
+      "popularity": 291.462,
+      "poster_path": "/AtVBMhimMpC1Ha2oKDzeLp.jpg",
+      "release_date": "2004-04-10",
+      "title": "Fallen Empire",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 204611
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ZDYUvh7i71S87XwXaHCP.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 100022,
+      "original_language": "pt",
+      "original_title": "Eternal Memory",
+      "overview": "In Eternal Memory, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 177.634,
+      "poster_path": "/rQUzWDwIptvRT1OUBRknyu.jpg",
+      "release_date": "2011-01-03",
+      "title": "Eternal Memory",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 275299
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Q7iLWceWwxJLQ6xVJGyO.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        28
+      ],
+      "id": 100023,
+      "original_language": "fr",
+      "original_title": "Fallen Echo",
+      "overview": "Fallen Echo follows a reluctant hero who must confront the past to save an uncertain future.",
+      "popularity": 160.07,
+      "poster_path": "/fwVHnVOrmXQ8DkPcNrAuXV.jpg",
+      "release_date": "1968-07-04",
+      "title": "Fallen Echo",
+      "video": false,
+      "vote_average": 9.2,
+      "vote_count": 145634
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/22wjZRL9OaYsP6ihgIqL.jpg",
+      "genre_ids": [
+        35,
+        10752
+      ],
+      "id": 100024,
+      "original_language": "hi",
+      "original_title": "Shadow Road",
+      "overview": "Shadow Road follows a reluctant hero who must confront the past to save an uncertain future.",
+      "popularity": 194.594,
+      "poster_path": "/ecmmusYQrR99UT4asYWzzJ.jpg",
+      "release_date": "2019-04-17",
+      "title": "Shadow Road",
+      "video": false,
+      "vote_average": 4.2,
+      "vote_count": 287988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/IgrHvzxELcriLRc3uoU5.jpg",
+      "genre_ids": [
+        80,
+        14,
+        12
+      ],
+      "id": 100025,
+      "original_language": "ja",
+      "original_title": "Fallen Reckoning",
+      "overview": "In Fallen Reckoning, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 219.143,
+      "poster_path": "/kdtXCkKYgEXnXAY8Qu8JiZ.jpg",
+      "release_date": "1980-11-09",
+      "title": "Fallen Reckoning",
+      "video": false,
+      "vote_average": 1.6,
+      "vote_count": 344633
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fRN2BqpepgaxT82ExHgD.jpg",
+      "genre_ids": [
+        878
+      ],
+      "id": 100026,
+      "original_language": "de",
+      "original_title": "Blazing Quest",
+      "overview": "Set against a changing world, Blazing Quest explores the courage it takes to start over.",
+      "popularity": 165.263,
+      "poster_path": "/5OM48mRkyAqfw6hSA5CPhS.jpg",
+      "release_date": "1984-10-17",
+      "title": "Blazing Quest",
+      "video": false,
+      "vote_average": 3.2,
+      "vote_count": 330206
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ZESFqZ8pIx5F21rWz5FY.jpg",
+      "genre_ids": [
+        36,
+        9648,
+        99,
+        27
+      ],
+      "id": 100027,
+      "original_language": "zh",
+      "original_title": "Lost Paradise",
+      "overview": "Lost Paradise follows a reluctant hero who must confront the past to save an uncertain future.",
+      "popularity": 148.788,
+      "poster_path": "/MVqt3t9Vj0OXdjocqRB95c.jpg",
+      "release_date": "1981-08-07",
+      "title": "Lost Paradise",
+      "video": false,
+      "vote_average": 2.9,
+      "vote_count": 298674
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kWCRNYdWCscmc5F9HpUl.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 100028,
+      "original_language": "es",
+      "original_title": "Forgotten Reckoning",
+      "overview": "In Forgotten Reckoning, a chance encounter unravels a conspiracy spanning continents and generations.",
+      "popularity": 245.25,
+      "poster_path": "/pQSLxtBa1elNimfKZ5oeSt.jpg",
+      "release_date": "2019-07-14",
+      "title": "Forgotten Reckoning",
+      "video": false,
+      "vote_average": 2.7,
+      "vote_count": 223563
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/IWxHwqFEg8D04wzInjq5.jpg",
+      "genre_ids": [
+        10751
+      ],
+      "id": 100029,
+      "original_language": "es",
+      "original_title": "Golden River",
+      "overview": "Golden River follows a reluctant hero who must confront the past to save an uncertain future.",
+      "popularity": 180.988,
+      "poster_path": "/nog9hgiVRIcuhrLt8BIs1l.jpg",
+      "release_date": "1999-06-14",
+      "title": "Golden River",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 337904
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nlwShoYSDDnjZbcJjNcJ.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 100030,
+      "original_language": "es",
+      "original_title": "Shadow Empire",
+      "overview": "Set against a changing world, Shadow Empire explores the courage it takes to start over.",
+      "popularity": 4.049,
+      "poster_path": "/rQUzWDwIptvRT1OUBRknyu.jpg",
+      "release_date": "1974-07-17",
+      "title": "Shadow Empire",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 44556
+    }],
+  "total_results": 30,
+  "total_pages": 1
+}
